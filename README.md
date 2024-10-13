@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @serhat çelik
-- 👀 I am interested in game development in the field of software
+- 👀In the software world, I develop mobile applications and I also love making games with Unity.
 - 🌱 I am currently studying software engineering at Fırat University.
-I'm trying to learn c#, java and pyton
-I can create form applications with C#
-- 💞️ For cooperation, you can contact us via this e-mail.
+I'm trying to learn c#, java,phyton,react native,html and css
+I can create form applications with C# and mobile applications with React Native.
+- 💞️ For cooperation, you can contact us with this e-mail.
 seehatc892@gmail.com.
 
