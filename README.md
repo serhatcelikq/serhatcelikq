@@ -4,5 +4,5 @@
 I'm trying to learn c#, java,phyton,react native,html and css
 I can create form applications with C# and mobile applications with React Native.
 - 💞️ For cooperation, you can contact us with this e-mail.
-seehatc892@gmail.com.
+s.celik.dev@gmail.com
 
